@@ -1,0 +1,12 @@
+name,datapath
+BT474_ER_1,Data/peaks/BT474_ER_1.bed
+BT474_ER_2,Data/peaks/BT474_ER_2.bed
+MCF7_ER_1,Data/peaks/MCF7_ER_1.bed
+MCF7_ER_2,Data/peaks/MCF7_ER_2.bed
+MCF7_ER_3,Data/peaks/MCF7_ER_3.bed
+T47D_ER_1,Data/peaks/T47D_ER_1.bed
+T47D_ER_2,Data/peaks/T47D_ER_2.bed
+TAMR_ER_1,Data/peaks/TAMR_ER_1.bed
+TAMR_ER_2,Data/peaks/TAMR_ER_2.bed
+ZR75_ER_1,Data/peaks/ZR75_ER_1.bed
+ZR75_ER_2,Data/peaks/ZR75_ER_2.bed
